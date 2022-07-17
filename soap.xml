@@ -1,0 +1,12 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+  <soapenv:Header/>
+  <soapenv:Body>
+     <ns2:UserDetailsResponse xmlns:ns2="http://www.soapexample.com/xml/users">
+        <ns2:User>
+           <ns2:name>Your Name Here: Zuri</ns2:name>
+           <ns2:age>Add An Age: 32</ns2:age>
+           <ns2:city>Brisbane</ns2:city>
+        </ns2:User
+     </ns2:UserDetailsResponse>
+  </soapenv:Body>
+</soapenv:Envelope>

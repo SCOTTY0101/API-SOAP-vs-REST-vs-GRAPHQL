@@ -1,0 +1,17 @@
+{
+    person {
+        name
+        age
+        city
+    }
+
+}
+
+
+{
+    "data" :{
+        "name": "Zuri",
+        "age": 32,
+        "city": "Brisbane"
+    }
+}

@@ -1,0 +1,7 @@
+GET https://www.sampleWebSiteInformaton.io
+
+{
+    "name": "Zuri",
+    "age": 32,
+    "address": "Brisbane"
+}
