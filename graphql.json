@@ -1,15 +1,10 @@
 {
-    person {
-        name
-        age
-        city
-    }
-
+  "README Notes": "graphQL object"
 }
 
 
 {
-    "data" :{
+    "data" : {
         "name": "Zuri",
         "age": 32,
         "city": "Brisbane"

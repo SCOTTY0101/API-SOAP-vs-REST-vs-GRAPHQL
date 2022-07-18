@@ -1,4 +1,6 @@
-GET https://www.sampleWebSiteInformaton.io
+{
+  "README Notes": "REST request"
+}
 
 {
     "name": "Zuri",
